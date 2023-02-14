@@ -20,12 +20,12 @@ h2, p {
     margin-top: 0;
 }
 
-a:hover, a.active { color: #309AFD; }
+a:hover, a.active { color: #fd9330; }
 
 .tm-btn {
     padding: 10px 40px;
     color: white;
-    background-color: #3299CD;
+    background-color: #fd9330;
     display: inline-block;
     border: none;
     cursor: pointer;
@@ -39,7 +39,7 @@ button.tm-btn {
 
 .tm-btn:hover {
     color: white;
-    background-color: #49b4e9;
+    background-color: #fd9330;
 }
 
 h1 { font-size: 3rem; }
@@ -54,7 +54,7 @@ div { box-sizing: border-box;}
 .tm-mb-80 { margin-bottom: 80px; }
 .tm-text-center { text-align: center; }
 .tm-text-right { text-align: right; }
-.tm-color-primary { color: #309AFD; }
+.tm-color-primary { color: #fd9330; }
 .tm-color-gray { color: #666768; }
 .tm-color-gray-2 { color: #98999A; }
 .tm-color-light-gray { color: #9E9FA0; }
@@ -125,12 +125,12 @@ a {
 
 .tm-nav-link:hover,
 .tm-nav-link.active {
-    color: #309AFD;
+    color: #fd9330;
 }
 
 .tm-nav-link i {
     margin-top: 30px;
-    color: #309AFD;
+    color: #fd9330;
 }
 
 .tm-main-nav ul {
@@ -266,7 +266,7 @@ button.mfp-arrow {
 
 a.tm-paging-link.active,
 a.tm-paging-link:hover {
-    background: #309AFD;
+    background: #fd9330;
     color: white;
 }
 
@@ -297,7 +297,7 @@ a.tm-paging-link:hover {
     max-width: 180px;
     max-height: 240px;
     width: 25%;
-    background: #3085a3;
+    background: #fd9330;
     text-align: center;
     cursor: pointer;
 }

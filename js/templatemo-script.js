@@ -262,9 +262,9 @@ $(document).ready(function () {
         var img = 'img/';
 
         if(window.innerWidth > 650) {
-            img += 'intro.jpg';
+            img += 'Groot.png';
         } else {
-            img += 'intro-big.jpg';
+            img += 'Groot-Big.png';
         }
 
         $('.tm-intro-img').attr('src', img);
