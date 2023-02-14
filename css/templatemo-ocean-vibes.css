@@ -111,6 +111,12 @@ a {
     margin: 22px;   
 }
 
+.tm-nav-item_ {
+    list-style: none;
+    margin: 22px;   
+    margin-right: 50%;
+}
+
 .tm-nav-link {
     display: flex;
     align-items: center;    
@@ -230,8 +236,9 @@ button.mfp-arrow {
 
 /* Gallery */
 .tm-gallery {
-    flex: 0 0 68%;
-    margin: 0 20px;
+    /*flex: 0 0 68%;
+    margin: 0 20px;*/
+    margin: 0 0 22px 0;
 }
 
 .tm-gallery-container {
